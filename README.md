@@ -1,7 +1,7 @@
 # Crowdfunding_ETL
 
 ————————————————————————
-##TASK
+TASK
 ————————————————————————
 
 We were tasked with building an ETL pipeline using Python, Pandas, and Python dictionary methods to extract and transform a company’s crowdfunding data. After transforming and cleaning the data, we created four CSV files and used the CSV file data to create an ERD and a table schema in PostgeSQl.
